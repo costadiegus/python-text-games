@@ -10,6 +10,7 @@ Este projeto inclui os seguintes jogos clássicos:
 - **Jogo da Forca**: Adivinhe a palavra antes de esgotar suas tentativas.
 - **Sudoku Solver**: Solucione qualquer Sudoku.
 - **Batalha Naval**: Tente derrubar os navios do seu oponente.
+- **Uno**: Jogue este clássico com um ou mais adversários.
 
 ## Como Executar
 
